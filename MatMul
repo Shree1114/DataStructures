@@ -34,3 +34,16 @@ int main(){
 	}
 	return 0;
 }
+OUTPUT
+
+Enter no of rows:2
+Enter no of columns:2
+Enter the first element:
+1 2
+3 4
+Enter the second element:
+1 2
+3 4
+The multiplied matrix is:
+5	11	
+11	25	
